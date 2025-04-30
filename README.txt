@@ -19,3 +19,7 @@ The structure of this project is as follows:
 ├── evaluate.ipynb - contains code and results for evaluating the trained models
 ├── README.md
 └── train.py - main file for training
+
+
+See my full report for complete description and evaluation:
+[![report](report_pg1.png)](Deeper Networks for Image Classifications.pdf)
