@@ -22,4 +22,4 @@ The structure of this project is as follows:
 ```
 
 See my full report [Deeper Networks for Image Classifications.pdf](Deeper-Networks-for-Image-Classifications.pdf) for a complete description and evaluation:
-![report](report_pg1.png)
+![report](report_pg5.png)
