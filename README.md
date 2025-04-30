@@ -21,5 +21,5 @@ The structure of this project is as follows:
 └── train.py - main file for training
 ```
 
-See my full report [Deeper Networks for Image Classifications.pdf](Deeper Networks for Image Classifications.pdf) for a complete description and evaluation:
+See my full report [Deeper Networks for Image Classifications.pdf](Deeper-Networks-for-Image-Classifications.pdf) for a complete description and evaluation:
 ![report](report_pg1.png)
