@@ -1,5 +1,5 @@
 The structure of this project is as follows:
-
+```
 ├── data/ - all the downloaded datasets are placed inside this folder
 │   ├── caltech101/ 
 │   └── MNIST/ 
@@ -19,7 +19,7 @@ The structure of this project is as follows:
 ├── evaluate.ipynb - contains code and results for evaluating the trained models
 ├── README.md
 └── train.py - main file for training
+```
 
-
-See my full report for complete description and evaluation:
-[![report](report_pg1.png)](Deeper Networks for Image Classifications.pdf)
+See my full report Deeper Networks for Image Classifications for a complete description and evaluation:
+![report](report_pg1.png)]
